@@ -1,0 +1,15 @@
+{
+  "name": "largelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "largeKim <kdw4458@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs --config config.js",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "vuepress": "^2.0.0-beta.51"
+  }
+}
